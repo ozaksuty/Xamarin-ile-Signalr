@@ -1,0 +1,50 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.2.2.min.js"></script>
+    <script src="~/signalr/hubs"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var chatInput = $("#txtInput");
+            var userName = prompt("Enter a username");
+
+            var chat = $.connection.chatHub;
+            chat.connection.qs = { 'username': userName };
+            chat.client.messageReceived = function (username, message) {
+                $("ul").append("<li><b>" + username + ": </b><i>"
+                    + message + "</i></li>");
+            };
+
+            $.connection.hub.start().done(function () {
+                console.log("hub started!");
+                chatInput.keydown(function (e) {
+                    if (e.which === 13) {
+                        var text = chatInput.val();
+                        chat.server.sendMessage(userName, text);
+                        chatInput.val("");
+                        self.focus();
+                    }
+                })
+            });
+
+            chatInput.focus();
+        });
+    </script>
+</head>
+<body>
+    <div> 
+        <input type="text" id="txtInput" />
+        <hr />
+        <ul></ul>
+    </div>
+</body>
+</html>

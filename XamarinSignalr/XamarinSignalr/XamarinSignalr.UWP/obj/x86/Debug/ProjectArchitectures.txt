@@ -1,0 +1,1 @@
+c:\users\yigit\source\repos\XamarinSignalr\XamarinSignalr\XamarinSignalr.UWP\XamarinSignalr.UWP.csproj;x86

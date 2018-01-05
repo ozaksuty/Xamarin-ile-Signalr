@@ -1,0 +1,12 @@
+c:\users\yigit\source\repos\XamarinSignalr\XamarinSignalr\XamarinSignalr\bin\Debug\netstandard2.0\XamarinSignalr.deps.json
+c:\users\yigit\source\repos\XamarinSignalr\XamarinSignalr\XamarinSignalr\bin\Debug\netstandard2.0\XamarinSignalr.dll
+c:\users\yigit\source\repos\XamarinSignalr\XamarinSignalr\XamarinSignalr\bin\Debug\netstandard2.0\XamarinSignalr.pdb
+c:\users\yigit\source\repos\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Debug\netstandard2.0\XamarinSignalr.csprojResolveAssemblyReference.cache
+c:\users\yigit\source\repos\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Debug\netstandard2.0\XamarinSignalr.csproj.CoreCompileInputs.cache
+c:\users\yigit\source\repos\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Debug\netstandard2.0\XamarinSignalr.App.xaml.g.cs
+c:\users\yigit\source\repos\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Debug\netstandard2.0\XamarinSignalr.MainPage.xaml.g.cs
+c:\users\yigit\source\repos\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Debug\netstandard2.0\XamarinSignalr.AssemblyInfoInputs.cache
+c:\users\yigit\source\repos\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Debug\netstandard2.0\XamarinSignalr.AssemblyInfo.cs
+c:\users\yigit\source\repos\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Debug\netstandard2.0\XamarinSignalr.dll
+c:\users\yigit\source\repos\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Debug\netstandard2.0\XamarinSignalr.pdb
+c:\users\yigit\source\repos\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Debug\netstandard2.0\XamarinSignalr.ChatPage.xaml.g.cs
