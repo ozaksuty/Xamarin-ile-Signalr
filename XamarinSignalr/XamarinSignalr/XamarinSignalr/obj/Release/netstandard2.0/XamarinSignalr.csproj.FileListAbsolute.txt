@@ -1,0 +1,11 @@
+C:\Users\Yigit\Documents\GitHub\Xamarin-ile-Signalr\XamarinSignalr\XamarinSignalr\XamarinSignalr\bin\Release\netstandard2.0\XamarinSignalr.deps.json
+C:\Users\Yigit\Documents\GitHub\Xamarin-ile-Signalr\XamarinSignalr\XamarinSignalr\XamarinSignalr\bin\Release\netstandard2.0\XamarinSignalr.dll
+C:\Users\Yigit\Documents\GitHub\Xamarin-ile-Signalr\XamarinSignalr\XamarinSignalr\XamarinSignalr\bin\Release\netstandard2.0\XamarinSignalr.pdb
+C:\Users\Yigit\Documents\GitHub\Xamarin-ile-Signalr\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Release\netstandard2.0\XamarinSignalr.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\Documents\GitHub\Xamarin-ile-Signalr\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Release\netstandard2.0\XamarinSignalr.App.xaml.g.cs
+C:\Users\Yigit\Documents\GitHub\Xamarin-ile-Signalr\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Release\netstandard2.0\XamarinSignalr.ChatPage.xaml.g.cs
+C:\Users\Yigit\Documents\GitHub\Xamarin-ile-Signalr\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Release\netstandard2.0\XamarinSignalr.MainPage.xaml.g.cs
+C:\Users\Yigit\Documents\GitHub\Xamarin-ile-Signalr\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Release\netstandard2.0\XamarinSignalr.AssemblyInfoInputs.cache
+C:\Users\Yigit\Documents\GitHub\Xamarin-ile-Signalr\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Release\netstandard2.0\XamarinSignalr.AssemblyInfo.cs
+C:\Users\Yigit\Documents\GitHub\Xamarin-ile-Signalr\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Release\netstandard2.0\XamarinSignalr.dll
+C:\Users\Yigit\Documents\GitHub\Xamarin-ile-Signalr\XamarinSignalr\XamarinSignalr\XamarinSignalr\obj\Release\netstandard2.0\XamarinSignalr.pdb

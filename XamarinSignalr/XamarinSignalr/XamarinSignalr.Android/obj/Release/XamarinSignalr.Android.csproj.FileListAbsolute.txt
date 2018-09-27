@@ -1,0 +1,1 @@
+C:\Users\Yigit\Documents\GitHub\Xamarin-ile-Signalr\XamarinSignalr\XamarinSignalr\XamarinSignalr.Android\obj\Release\XamarinSignalr.Android.csprojAssemblyReference.cache
