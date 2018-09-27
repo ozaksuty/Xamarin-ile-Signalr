@@ -889,39 +889,36 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Yigit\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
+    "C:\\Users\\Yigit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\yigit\\source\\repos\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr.iOS\\XamarinSignalr.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Yigit\\Documents\\GitHub\\Xamarin-ile-Signalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr.iOS\\XamarinSignalr.iOS.csproj",
       "projectName": "XamarinSignalr.iOS",
-      "projectPath": "c:\\users\\yigit\\source\\repos\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr.iOS\\XamarinSignalr.iOS.csproj",
+      "projectPath": "C:\\Users\\Yigit\\Documents\\GitHub\\Xamarin-ile-Signalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr.iOS\\XamarinSignalr.iOS.csproj",
       "packagesPath": "C:\\Users\\Yigit\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\yigit\\source\\repos\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Yigit\\Documents\\GitHub\\Xamarin-ile-Signalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\Yigit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Yigit\\source\\repos\\AygazArchitecture\\AYGMobile\\bin\\Debug": {},
+        "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "c:\\users\\yigit\\source\\repos\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr.csproj": {
-              "projectPath": "c:\\users\\yigit\\source\\repos\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr.csproj"
+            "C:\\Users\\Yigit\\Documents\\GitHub\\Xamarin-ile-Signalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr.csproj": {
+              "projectPath": "C:\\Users\\Yigit\\Documents\\GitHub\\Xamarin-ile-Signalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr.csproj"
             }
           }
         }

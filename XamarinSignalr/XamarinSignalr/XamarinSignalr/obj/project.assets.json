@@ -59,7 +59,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "NETStandard.Library/2.0.0": {
+      "NETStandard.Library/2.0.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -695,10 +695,10 @@
         "runtime.json"
       ]
     },
-    "NETStandard.Library/2.0.0": {
-      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+    "NETStandard.Library/2.0.1": {
+      "sha512": "oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
       "type": "package",
-      "path": "netstandard.library/2.0.0",
+      "path": "netstandard.library/2.0.1",
       "files": [
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -819,7 +819,7 @@
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.0.nupkg.sha512",
+        "netstandard.library.2.0.1.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
     },
@@ -2983,41 +2983,37 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "Microsoft.AspNet.SignalR.Client >= 2.2.2",
-      "NETStandard.Library >= 2.0.0",
+      "NETStandard.Library >= 2.0.1",
       "Xamarin.Forms >= 2.5.0.121934"
     ]
   },
   "packageFolders": {
     "C:\\Users\\Yigit\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "c:\\users\\yigit\\source\\repos\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr.csproj",
+      "projectUniqueName": "C:\\Users\\Yigit\\Documents\\GitHub\\Xamarin-ile-Signalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr.csproj",
       "projectName": "XamarinSignalr",
-      "projectPath": "c:\\users\\yigit\\source\\repos\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr.csproj",
+      "projectPath": "C:\\Users\\Yigit\\Documents\\GitHub\\Xamarin-ile-Signalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr.csproj",
       "packagesPath": "C:\\Users\\Yigit\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\yigit\\source\\repos\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr\\obj\\",
+      "outputPath": "C:\\Users\\Yigit\\Documents\\GitHub\\Xamarin-ile-Signalr\\XamarinSignalr\\XamarinSignalr\\XamarinSignalr\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Yigit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Yigit\\source\\repos\\AygazArchitecture\\AYGMobile\\bin\\Debug": {},
+        "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3041,7 +3037,7 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "[2.0.1, )",
             "autoReferenced": true
           },
           "Xamarin.Forms": {
